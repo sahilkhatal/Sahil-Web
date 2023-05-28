@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.navbar{
+    padding: 8px;
+    margin: 0;
+    font-size: 30px;
+    background-color: #333;
+    color: #f7f5f5;
+}
+.neuzuko{
+    font: size 100px;;
+    color: #7c044a;
+
+}
+.harsh{
+    font-size: 150px;
+    padding: 10px;
+}
+.sahil{
+    font-size: -1px;
+}
